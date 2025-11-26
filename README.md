@@ -16,7 +16,7 @@
 
 ### 📌 About Me
 
-- 🌱 Learning **Android, Kotlin & Ethical Hacking**  
+- 🌱 Learning **Android, Kotlin & basic Hacking**  
 - 🎯 Goal: Build my own apps & a startup someday  
 - 😄 Fun fact: I love creating apps that help people  
 
@@ -41,6 +41,6 @@
 
 ### 🌍 Connect with me
 
-📩 Email — (Add your email here)  
-📸 Instagram — (Add your Insta link here)
+📩 Email — (touibrayaz990@gmail.com)  
+📸 Instagram — (touib rayaz)
 
