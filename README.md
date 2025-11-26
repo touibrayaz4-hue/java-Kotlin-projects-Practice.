@@ -21,22 +21,11 @@
 - 😄 Fun fact: I love creating apps that help people  
 
 ---
-
 ### 🏷️ Badges
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=touibriyaz&show_icons=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=touibriyaz" height="150"/>
-</p>
-
 ---
 
 ### 🌍 Connect with me
