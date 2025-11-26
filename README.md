@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Touib Riyaz</h1>
-<h3 align="center">Android Developer | Java & Kotlin Enthusiast 🚀</h3>
+<h3 align="center">want to be a good Android Developer | Java & Kotlin coder  🚀</h3>
 
 ---
 
